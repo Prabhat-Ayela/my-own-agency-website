@@ -62,7 +62,7 @@ const Footer = () => {
 
         {/* copyright text */}
         <div>
-        <p>Copyright © 2023 Laralink</p>
+        <p>Copyright © 2023 Joel</p>
         <p>Terms of Use | Privacy Policy</p>
         </div>
         </div>

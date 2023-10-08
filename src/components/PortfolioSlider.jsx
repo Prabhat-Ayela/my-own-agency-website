@@ -7,18 +7,18 @@ import Slider from "react-slick";
 const PortfolioSlider = () => {
 
     const data = [
-        {title: "Colorful Art Work", subtitle:"See Details", image:"/src/assets/portfolio_3.jpeg"},
-        {title: "Colorful Art Work", subtitle:"See Details", image:"/src/assets/portfolio_1.jpeg"},
-        {title: "Colorful Art Work", subtitle:"See Details", image:"/src/assets/portfolio_4.jpg"},
-        {title: "Colorful Art Work", subtitle:"See Details", image:"/src/assets/portfolio_2.jpeg"}, 
-        {title: "Colorful Art Work", subtitle:"See Details", image:"/src/assets/portfolio_3.jpeg"},
-        {title: "Colorful Art Work", subtitle:"See Details", image:"/src/assets/portfolio_1.jpeg"},
-        {title: "Colorful Art Work", subtitle:"See Details", image:"/src/assets/portfolio_4.jpg"},
-        {title: "Colorful Art Work", subtitle:"See Details", image:"/src/assets/portfolio_2.jpeg"},
-        {title: "Colorful Art Work", subtitle:"See Details", image:"/src/assets/portfolio_3.jpeg"},
-        {title: "Colorful Art Work", subtitle:"See Details", image:"/src/assets/portfolio_1.jpeg"},
-        {title: "Colorful Art Work", subtitle:"See Details", image:"/src/assets/portfolio_4.jpg"},
-        {title: "Colorful Art Work", subtitle:"See Details", image:"/src/assets/portfolio_2.jpeg"}, 
+        {title: "Colorful Art Work", subtitle:"See Details", image:"/images/portfolio_3.jpeg"},
+        {title: "Colorful Art Work", subtitle:"See Details", image:"/images/portfolio_1.jpeg"},
+        {title: "Colorful Art Work", subtitle:"See Details", image:"/images/portfolio_2.jpeg"},
+        {title: "Colorful Art Work", subtitle:"See Details", image:"/images/portfolio_4.jpg"}, 
+        {title: "Colorful Art Work", subtitle:"See Details", image:"/images/portfolio_3.jpeg"},
+        {title: "Colorful Art Work", subtitle:"See Details", image:"/images/portfolio_1.jpeg"},
+        {title: "Colorful Art Work", subtitle:"See Details", image:"/images/portfolio_2.jpeg"},
+        {title: "Colorful Art Work", subtitle:"See Details", image:"/images/portfolio_4.jpg"},
+        {title: "Colorful Art Work", subtitle:"See Details", image:"/images/portfolio_3.jpeg"},
+        {title: "Colorful Art Work", subtitle:"See Details", image:"/images/portfolio_1.jpeg"},
+        {title: "Colorful Art Work", subtitle:"See Details", image:"/images/portfolio_2.jpeg"},
+        {title: "Colorful Art Work", subtitle:"See Details", image:"/images/portfolio_4.jpg"}, 
     ]
 
    const settings = {
